@@ -1,0 +1,24 @@
+*{
+    margin: 20px;
+}
+.container{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+.header{
+    text-align: center;
+}
+.form-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    text-align: center; 
+    border: 1px solid lightgray;
+}
